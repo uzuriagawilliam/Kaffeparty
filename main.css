@@ -1,0 +1,30 @@
+        /* Modify the menu-bar background color */          
+        .navbar-custom {
+            background-color: #F4F0CB;
+        }
+
+        /* Modify brand and text color */          
+        .navbar-custom .navbar-brand,
+        .navbar-custom .navbar-text {
+            color: #B3A580;
+        }
+        body { 
+            background-color: #ffffff;
+        }
+        
+        .div_main
+        {
+            background-color: #DED29E;            
+            color: #685642;
+            padding: 40px;
+        }
+
+        .div_img{
+            padding-left: 60px;
+        }
+
+        .h4-center-vertical {
+            padding-top: 90px;
+            margin: 0
+        }
+      
